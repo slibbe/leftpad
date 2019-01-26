@@ -1,1 +1,1 @@
-go package for testing purposes
+# go package for testing purposes
